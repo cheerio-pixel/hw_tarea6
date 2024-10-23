@@ -1,6 +1,6 @@
 # tarea6
 
-A new Flutter project.
+Homework that implements a bunch of features. The main purpose is to use web APIs and set the icon for the android version.
 
 ## Getting Started
 
